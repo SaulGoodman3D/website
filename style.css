@@ -1,6 +1,9 @@
-body{
+@font-face{
   font-family: 'Minecraft Regular';
   src: url('MinecraftRegular-Bmg3.otf') format("opentype"), url('MinecraftRegular-Bmg3.ttf') format("truetype"), url('MinecraftRegular-Bmg3.woff') format("woff");
+}
+
+body{
   background-image: url(bg-wool-dark.png);
   text-align: center;
 }
