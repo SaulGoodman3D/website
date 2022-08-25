@@ -6,6 +6,7 @@
 body{
   background-image: url(bg-wool-dark.png);
   text-align: center;
+   font-family: 'Minecraft Regular', Fallback, sans-serif;
 }
 
 h1{
